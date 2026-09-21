@@ -6,7 +6,7 @@ configuration:
   enablePopovers: true
   analytics: null
   locale: es-ES
-  baseUrl: candelaria.oyaneder.work
+  baseUrl: marcelooyaneder.github.io/candelaria-quartz
   ignorePatterns:
     - private
     - templates
